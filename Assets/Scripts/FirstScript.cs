@@ -8,7 +8,7 @@ public class FirstScript : MonoBehaviour
     void Start()
     {
         int score = 0;
-        string playerName = "Bob";
+        string playerName = "Bobo";
         float jumpForce = 5.82f;
         bool gameOver = false;
 
